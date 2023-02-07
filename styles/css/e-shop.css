@@ -1,0 +1,58 @@
+#e-shop{
+    text-align: center;
+    justify-content: center;
+    border-style: groove;
+    border-color: white;
+    background-color: black;
+}
+
+#card_medias{
+    margin-top: 25px;
+}
+
+#card_ropaInt{
+    margin-top: 25px;
+    justify-content: center;
+}
+
+#ropa_int_img{
+    height: 286px;
+}
+
+#footer{
+    background-color: black;
+}
+
+#eshop_footer{
+    color: white;
+    text-align: center;
+}
+
+#titulo_footer{
+    color: white;
+    text-align: center;
+}
+
+#subtitulo_footer{
+    color: white;
+    text-align: center;
+}
+
+#btn_footer{
+    position: relative;
+    left: 692px;
+}
+
+
+
+/*----------------------MEDIA QUERYS-------------------*/
+
+
+@media (max-width:1200px){
+    #btn_footer{
+        position: relative;
+        left: 475px;
+    }
+}
+
+

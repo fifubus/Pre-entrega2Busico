@@ -1,0 +1,54 @@
+
+#eshop_header{
+    margin-top: 50px;
+    text-align: center;
+    justify-content: center;
+    border-style: groove;
+    border-color: white;
+    background-color: black;
+    text-decoration: none;
+}
+
+#carousel{
+    margin-top: 100px;
+    height: 500px;
+    width: 970px;
+    position: relative;
+    left: 200px;
+}
+
+#carousel1_img{
+    height: 500px;
+}
+
+#carousel2_img{
+    height: 500px;
+}
+
+#carousel3_img{
+    height: 500px;
+}
+
+#boton_eshop{
+    text-align: center;
+    justify-content: center;
+}
+
+#footer{
+    background-color: black;
+}
+
+#eshop_footer{
+    color: white;
+    text-align: center;
+}
+
+#titulo_footer{
+    color: white;
+    text-align: center;
+}
+
+#subtitulo_footer{
+    color: white;
+    text-align: center;
+}
